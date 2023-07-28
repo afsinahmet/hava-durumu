@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hava-durumu/static/css/main.da3089f3.css",
+    "main.js": "/hava-durumu/static/js/main.b3f0fcf8.js",
+    "index.html": "/hava-durumu/index.html",
+    "main.da3089f3.css.map": "/hava-durumu/static/css/main.da3089f3.css.map",
+    "main.b3f0fcf8.js.map": "/hava-durumu/static/js/main.b3f0fcf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.b3f0fcf8.js"
+  ]
+}
